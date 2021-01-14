@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         ArcGIS Query Autofill
 // @namespace    MapOMatic
-// @version      0.1
+// @version      0.2
 // @description  Fill in some values automatically in ArcGIS online queries
 // @author       MapOMatic
 // @include      /https?:\/\/.*\/.*rest\/services\/.*/
