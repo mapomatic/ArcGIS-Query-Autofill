@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         ArcGIS Query Autofill
-// @namespace    http://tampermonkey.net/
+// @namespace    MapOMatic
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @description  Fill in some values automatically in ArcGIS online queries
+// @author       MapOMatic
 // @include      /https?:\/\/.*\/.*rest\/services\/.*/
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js
 // @grant        none
